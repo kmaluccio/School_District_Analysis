@@ -20,14 +20,18 @@ These are the results based on the data without any math or reading scores from 
 - Impact of replacing the 9th grade scores at THS:
 	- Math/reading scores by grade: The THS 9th grade score for both math and reading reads as nan and this is the only change
 	- Scores by school spending, scores by school size, and scores by school type:
-		-Data stayed the same (since the change in average scores and overall passing was less than one point and less than one percent), see the results in the tables below
+		- Data stayed the same (since the change in average scores and overall passing was less than one point and less than one percent), see the results in the tables below (in order you can see scores by sending, by school size, and by type)
 
 ![Scores by Spending](https://github.com/kmaluccio/School_District_Analysis/blob/main/Resources/scores_by_school_spending.png)
+
 ![Scores by Size](https://github.com/kmaluccio/School_District_Analysis/blob/main/Resources/scores_by_school_size.png)
+
 ![Scores by Type](https://github.com/kmaluccio/School_District_Analysis/blob/main/Resources/scores_by_type.png)
 
-- Top five and bottom five schools:
+- Top five schools:
 ![Top 5 Schools](https://github.com/kmaluccio/School_District_Analysis/blob/main/Resources/Top5Schools.png)
+
+- Bottom five schools:
 ![Bottom 5 Schools](https://github.com/kmaluccio/School_District_Analysis/blob/main/Resources/Bottom5Schools.png)
 
 ## Summary 
